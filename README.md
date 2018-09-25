@@ -4,7 +4,7 @@ frontend-nanodegree-arcade-game
 An implementation of the arcade game Frogger, built as part of the Udacity front-end web developer nanodegree.
 
 ## Install and run
-1. Clone the repository 
+1. Clone the repository https://github.com/Eche24/arcade-game-frogger.git
 2. Open the index.html in your browser
 
  ## Instructions
